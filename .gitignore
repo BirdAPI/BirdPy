@@ -1,0 +1,5 @@
+/birdpy.egg-info
+/dist
+/.idea
+/build
+*.pyc
